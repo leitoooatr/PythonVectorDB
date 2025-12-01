@@ -1,0 +1,3 @@
+numpy>=1.21.0          # Core numerical operations
+numba>=0.56.0           # JIT compilation for performance
+psutil>=5.8.0            # Memory monitoring for benchmarks
