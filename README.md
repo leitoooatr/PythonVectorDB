@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](#testing)
-[![Benchmark](https://img.shields.io/badge/Benchmark-1M%20vec%2Fs-orange.svg)](#performance)
 
 Pure Python vector database with Int8 quantization and lazy deletion.
 
